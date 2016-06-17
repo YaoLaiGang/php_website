@@ -1,5 +1,5 @@
 <?php 
-	function printTest($n,$name){
+	function printTest($n=5,$name=1){
 			switch ($name) {
 				case 1:
 					# code...
